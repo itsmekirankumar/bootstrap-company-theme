@@ -1,0 +1,91 @@
+.navbar{
+	background-color: #f4511e;
+	border: 0px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.navbar-brand{
+	font-size: 20px;	
+	font-weight: bold;
+}
+.jumbotron{
+	background-color: #f4511e;
+	color: #fff;
+	padding: 100px 0px 0px 0px;
+}
+.input-group{
+	padding: 50px;
+	width: 40%;
+	margin: 0px auto;
+}
+.bg-grey{
+	background-color: #f6f6f6;
+}
+.panel-heading
+{
+	background-color: #f4511e;
+	color: #fff;}
+.panel{
+	border: 1px solid #f4511e;
+
+}
+.panel-footer{
+	background-color: #fff;
+	padding-bottom: 50px;
+
+	/*border: 1px solid #f4511e;*/
+}
+.panel-body{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.bg-grey-contact{
+	background-color: #f6f6f6;
+	padding-top: 50px;
+}
+.bg-grey-contact h1{
+	text-align: center;
+}
+#comment
+{
+	height: 100px;
+}
+.contact{
+	padding:10px 10px 10px 10px;
+	margin:0px auto;
+}
+.fa{
+	color: #f4511e;
+}
+h4,h5
+{
+	padding: 20px;
+}
+.bg-4{
+	background-color: #000;
+	color: #fff;
+	padding: 20px;
+}
+#about,#services,#portfolio,#contact,#price{
+	padding-top: 50px;
+}
+ul li:hover {
+	background: #fcfcfc;
+	color: #ff0000;
+}
+.head-about,.fa-globe{
+	padding-left: 20px;
+}
+
+.get-button{
+	margin-left: 30px;
+	padding: 10px;
+}
+
+.make-it-fast:hover {
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.6);
+  transition: box-shadow 0.15s ease-in-out;
+}
+.contact p{
+	padding-left: 50px;
+}
